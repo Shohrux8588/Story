@@ -1,1 +1,3 @@
-It was the best of times, i am learning coding.
+It was the best of times, i am learning coding. 
+Python is very good language for beginners to understand
+concepts of Computer Science.

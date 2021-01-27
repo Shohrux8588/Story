@@ -1,1 +1,2 @@
-I am lerning Javascript. It is very fun.
+I am lerning Javascript. It is very fun. It is core of 
+any web development.
