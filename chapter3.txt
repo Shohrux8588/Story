@@ -1,2 +1,4 @@
 Before I learned python, it was very fun too. Python 
 knowledge really helped to to learn new languages.
+You can try this language by reading Automate boring
+stuff with python.
